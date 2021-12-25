@@ -1,0 +1,5 @@
+modId: "Polskie tłumaczenie"
+languages:
+  filenames:
+    - language.yaml
+  replace: false
